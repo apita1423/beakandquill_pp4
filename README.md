@@ -53,94 +53,94 @@
 
 ---
 
-# Introduction
+## Introduction
 
 ---
 
-# User Experience
+## User Experience
 
-## Project Goals
+### Project Goals
 
-## Target Audience
-
----
-
-# User Stories
-
-## First Time Visitor Goals
-
-## Registered User Goals
-
-## Admin User Goals
-
-## Agile Development
+### Target Audience
 
 ---
 
-# Design
+## User Stories
 
-## Colour Scheme
+### First Time Visitor Goals
 
-## Typography
+### Registered User Goals
 
-## Imagery
+### Admin User Goals
 
-## Wireframes
-
-## Database Relationship Schema
+### Agile Development
 
 ---
 
-# Features
+## Design
 
-## General Features
+### Colour Scheme
 
-## Future Implementation
+### Typography
 
-## Accessibility
+### Imagery
 
----
+### Wireframes
 
-# Testing
-
-## HTML Validation
-
-## CSS Validation
-
-## Javascript Validation
-
-## PEP8 CI Python Validation
-
-## Manual Testing
-
-## Bugs
+### Database Relationship Schema
 
 ---
 
-# Tools and Technologies Used
+## Features
 
-## Languages and Frameworks
+### General Features
 
-## Libraries and Programs Used
+### Future Implementation
 
----
-
-# Deployment
-
-## Heroku Deployment
-
-## Clone Repository
-
-## Fork Repository
+### Accessibility
 
 ---
 
-# Credits
+## Testing
 
-## Code Used
+### HTML Validation
 
-## Content
+### CSS Validation
 
-## Media
+### Javascript Validation
 
-## Acknowledgments
+### PEP8 CI Python Validation
+
+### Manual Testing
+
+### Bugs
+
+---
+
+## Tools and Technologies Used
+
+### Languages and Frameworks
+
+### Libraries and Programs Used
+
+---
+
+## Deployment
+
+### Heroku Deployment
+
+### Clone Repository
+
+### Fork Repository
+
+---
+
+## Credits
+
+### Code Used
+
+### Content
+
+### Media
+
+### Acknowledgments
