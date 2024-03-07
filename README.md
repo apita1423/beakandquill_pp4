@@ -1,31 +1,49 @@
 # Beaks & Quill
+
 ---
 
 ## Table of Contents
 
-* [User Experience](#user-experience-ux)
-    * [User Stories](#user-stories)
+* [Introduction](#introduction)
+
+* [User Experience](#user-experience)
+    * [Project Goals](#project-goals)
+    * [Target Audience](#target-audience)
+
+* [User Stories](#user-stories)
+    * [First Time Visitor Goals](#first-time-visitor-goals)
+    * [Registered User Goals](#registered-user-goals)
+    * [Admin User Goals](#admin-user-goals)
+    * [Agile Development](#agile-development)
 
 * [Design](#design)
     * [Colour Scheme](#colour-scheme)
     * [Typography](#typography)
     * [Imagery](#imagery)
     * [Wireframes](#wireframes)
+    * [Database Relationship Schema](#database-relationship-schema)
 
 * [Features](#features)
-    * [General Features on Each Page](#general-features-on-each-page)
+    * [General Features](#general-features)
     * [Future Implementation](#future-implementations)
     * [Accessibility](#accessibility)
 
-* [Technologies Used](#technologies-used)
-    * [Languages Used](#languages-used)
+* [Testing](#testing)
+    * [HTML Validation](#html-validation)
+    * [CSS Validation](#css-validation)
+    * [Javascript Validation](#javascript-validation)
+    * [PEP8 CI Python Validation](#pep8-ci-python-validation)
+    * [Manual Testing](#manual-testing)
+    * [Bugs](#bugs)
+
+* [Tools and Technologies Used](#tools-and-technologies-used)
+    * [Languages and Frameworks](#languages-and-frameworks)
     * [Libraries and Programs Used](#libraries-and-programs-used)
 
 * [Deployment](#deployment)
-    * [Deployment](#deployment-1)
-
-* [Testing](#testing)
-    * [Testing Validation](#testing-validation)
+    * [Heroku Deployment](#heroku-deployment)
+    * [Clone Repository](#clone-repository)
+    * [Fork Repository](#fork-repository)
 
 * [Credits](#credits)
     * [Code Used](#code-used)
@@ -35,60 +53,94 @@
 
 ---
 
-## User Experience
-
-### User Stories
+# Introduction
 
 ---
 
-## Design
+# User Experience
 
-### Colour Scheme
+## Project Goals
 
-### Typography
-
-### Imagery
-
-### Wireframes
+## Target Audience
 
 ---
 
-## Features
+# User Stories
 
-### General features on each page
+## First Time Visitor Goals
 
-### Future Implementations
+## Registered User Goals
 
-### Accessibility
+## Admin User Goals
 
----
-
-## Technologies Used
-
-### Languages Used
-
-### Libraries and Programs Used
+## Agile Development
 
 ---
 
-## Deployment
+# Design
+
+## Colour Scheme
+
+## Typography
+
+## Imagery
+
+## Wireframes
+
+## Database Relationship Schema
 
 ---
 
-## Testing
+# Features
 
-### Testing Validation 
+## General Features
+
+## Future Implementation
+
+## Accessibility
+
 ---
 
-## Credits
+# Testing
 
-### Code Used
+## HTML Validation
 
-### Content
+## CSS Validation
 
-### Media
+## Javascript Validation
 
-### Acknowledgments
+## PEP8 CI Python Validation
 
+## Manual Testing
 
+## Bugs
 
+---
+
+# Tools and Technologies Used
+
+## Languages and Frameworks
+
+## Libraries and Programs Used
+
+---
+
+# Deployment
+
+## Heroku Deployment
+
+## Clone Repository
+
+## Fork Repository
+
+---
+
+# Credits
+
+## Code Used
+
+## Content
+
+## Media
+
+## Acknowledgments
