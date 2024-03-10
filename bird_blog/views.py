@@ -6,4 +6,5 @@ from .models import Post
 
 # Code Credit: CI I Think Therefore I Blog Walkthrough
 class PostList(generic.ListView):
-    model = Post
+    queryset = Post.objects.all()
+    template_name = "post_list.html"
